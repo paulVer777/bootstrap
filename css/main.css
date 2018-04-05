@@ -1,17 +1,17 @@
 body {
 
     font-size: 1.5em;
-    background-color: #80bdff;
+
 
 }
 
 .box {
-    border: 1px solid black;
+
     padding: 1rem;
     margin-bottom: 3rem;
     border-radius: 6px;
     text-align: center;
-
+    background-color: #9fcdff;
 }
 
 .opak {
@@ -37,6 +37,21 @@ body {
     top:50%;
     left:25%;
     width: 50%;
+
+
+}
+
+.btn
+{
+    background-color: #80bdff;
+   border:1px solid black;
+}
+
+.navbar
+{
+
+margin-top: 50px;
+
 
 
 }
