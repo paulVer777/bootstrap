@@ -1,19 +1,42 @@
-body
-{
+body {
 
     font-size: 1.5em;
     background-color: #80bdff;
 
 }
 
-
-.box
-{
+.box {
     border: 1px solid black;
-    padding:1rem;
+    padding: 1rem;
     margin-bottom: 3rem;
     border-radius: 6px;
-   text-align: center;
+    text-align: center;
 
 }
 
+.opak {
+
+    border: 1px solid black;
+    padding: 1em;
+
+}
+
+.row {
+
+    border: 1px solid black;
+    padding: 3em;
+
+}
+
+
+.alert
+{
+
+
+    position: fixed;
+    top:50%;
+    left:25%;
+    width: 50%;
+
+
+}
